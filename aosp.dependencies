@@ -12,7 +12,7 @@
     "remote"      :"github"
   },
   {
-    "repository"  :"yashsonawane/device_oneplus_common",
+    "repository"  :"sevralt/device_oneplus_common",
     "target_path" :"device/oneplus/common",
     "branch"      :"ten",
     "remote"      :"github"
